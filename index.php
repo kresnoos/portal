@@ -102,8 +102,8 @@
                 <div class="row" style="margin-bottom:100px">
                   <div class="col-lg-3 col-sm-6 single-block" data-aos="fade-up">
                     <div class="wrapper">
-                      <a href="https://disperkim.garutkab.go.id/portal"><div class="icon-box"><img src="asset/icon/icon50.png" alt=""></div></a>
-                      <a href="https://disperkim.garutkab.go.id/portal" class="title">Website</a>
+                      <a href="https://disperkim.garutkab.go.id/web"><div class="icon-box"><img src="asset/icon/icon50.png" alt=""></div></a>
+                      <a href="https://disperkim.garutkab.go.id/web" class="title">Website</a>
                     </div> <!-- /.wrapper -->
                   </div> <!-- /.single-block -->
                   
